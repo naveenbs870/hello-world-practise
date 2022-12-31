@@ -1,11 +1,11 @@
 <html>
 <head>
-<title>Hello World, How are you doing !</title>
+<title>Updated Script</title>
 </head>
 <body>
-	<h1>Its just a test environment!</h1>
+	<h1>It will trigger an email to the team</h1>
 	<p>
-		It is now on testing field
+		It is now on testing field to trigger the alert
 		<%= new java.util.Date() %></p>
 	<p>
 		You are coming from 
